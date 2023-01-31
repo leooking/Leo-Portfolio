@@ -1,0 +1,20 @@
+{
+    "social": [
+        {
+            "network" : "linkedin",
+            "href": "https://linkedin.com/in/leo-king-3228b8249/"
+        },
+        {
+            "network" : "github",
+            "href": "https://github.com/leooking"
+        },
+        {
+            "network" : "telegram",
+            "href": "https://t.me/leoogolden"
+        },
+        {
+            "network" : "email",
+            "href": "mailto:leok0723@gmail.com"
+        }
+    ]
+}

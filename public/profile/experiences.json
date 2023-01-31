@@ -1,0 +1,44 @@
+{
+    "experiences": [
+        {
+            "title": "Freelancer",
+            "subtitle": "Upwork",
+            "workType": "Remote",
+            "workDescription": [
+                "I decided working independently with over a decade of experience building custom software solutions. My project history proves that I can adapt to work with whatever tools are needed. I am well versed in the latest web and mobile technologies, capable of working solo or as part of a team, and always looking for a new challenge"
+            ],
+            "dateText": "08/2022 – Present"
+        },
+        {
+            "title": "Full Stack Web Developer",
+            "subtitle": "Magehire LLC, US",
+            "workType": "Full-Time, On-Site",
+            "workDescription": [
+                "I have improved a lot of skills including team leader role. We worked on Agile Project Environment and enjoyed every day with coding.",
+                "Managed a lot of projects here and it is mostly Single Page Applications using React, Redux, Vue, Next, Nust, TypeScript, Node and AWS Technologies."
+            ],
+            "dateText": "05/2017 – 07/2022"
+        },
+        {
+            "title": "Software Engineer",
+            "subtitle": "Brightergy, Inc",
+            "workType": "Full-Time, On-Site",
+            "workDescription": [
+                "Brightergy, Inc. develops renewable energy sources. The Company's activities include the design and installation of solar electric, solar hot water, wind, and energy efficient lighting projects. Brightergy serves the alternative energy sector in the United States.",
+                "A lot of high technology is used building this project and all team members are really enjoyed every moment."
+            ],
+            "dateText": "10/2014 - 11/2016"
+        },
+        {
+            "title": "Junior Web Developer",
+            "subtitle": "IfINeedHelp.org",
+            "workType": "Full-Time, On-Site",
+            "workDescription": [
+                "Started my programming life here with HTML, CSS, JavaScript.",
+                "Enjoyed with static page first and then worked on dynamic website with PHP Framework.",
+                "Learned about MVC Framework and QRCode here and moved advanced developer."
+            ],
+            "dateText": "05/2012 - 09/2014"
+        }
+    ]
+}

@@ -1,0 +1,193 @@
+{
+    "projects" : [
+        {
+            "image" : "images/projects/profile.png",
+            "title": "Dev Portfolio",
+            "bodyText": "- Developer Portfolio Website made in React\n -  Fully customisable and dynamic, easily change data and images.\n - Dark Mode Support.\n - Deployed on Netlify.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/Cheetah0723/Portfolio-React"
+                },
+                {
+                    "text": "Live",
+                    "href": "https://iyuki.info"
+                }
+            ],
+            "tags" : [
+                "React",
+                "Portfolio",
+                "TypeScript"
+            ]
+        },
+        {
+            "image" : "images/projects/killergf.png",
+            "title": "KillerGF Run Game",
+            "bodyText": "- KillerGF NFT Website made in React\n -  KillerGF Running Game\n - Hyper Casual Game made in Unity, C# and Node server\n - Deployed on AWS",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/Killer-GF"
+                },
+                {
+                    "text": "Live",
+                    "href": "https://killergf.com/"
+                }
+            ],
+            "tags" : [
+                "React",
+                "Node.js",
+                "Unity",
+                "C#"
+            ]
+        },
+        {
+            "image" : "images/projects/3_Match.png",
+            "title": "Pet Crush",
+            "bodyText": "- Pet Crush 3 Match Game\n - 3 Match Game made in Unity, C#\n",
+            "links": [
+                {
+                    "text": "Live",
+                    "href": "https://www.1001games.com/match-3/pet-crush"
+                }
+            ],
+            "tags" : [
+                "Unity",
+                "C#"
+            ]
+        },
+        {
+            "image" : "images/projects/frontier.png",
+            "title": "Frontier-Freelancing app",
+            "bodyText": "- A Crypto Freelancing Platform & Social App made using **Next.js**, **Solidity** and **Node.js** for developers.\n - Added User authentication and password reset using **JWT** and **Wallet verification**.\n - People can hire developers and easily pay with several payments and crypto.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/Cheetah0723/Frontier"
+                }
+            ],
+            "tags" : [
+                "Next.js",
+                "Node.js",
+                "MongoDB",
+                "Web3.js",
+                "Solidity"
+            ]
+        },
+        {
+            "image" : "images/projects/iwantto.png",
+            "title": "Axxces - Crypto Learning App",
+            "bodyText": "- Crypto Learning Platform made using using **Wordpress**\n - Added User authentication and password reset.\n - People can learn everything you need to know about trading Forex, Cryptocurrency, Metaverse, NFT's blockchain and more.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/Cheetah0723/"
+                },
+                {
+                    "text": "Live",
+                    "href": "https://iwanttobeafounder.com/"
+                }
+            ],
+            "tags" : [
+                "Wordpress"
+            ]
+        },
+        {
+            "image" : "images/projects/lotusvan.png",
+            "title": "Lotusvancouver -  Car Website",
+            "bodyText": "- Lotusvancouver is Car Website people can buy and rent cars.\n - Large car site integrated many small car companies in Canada.\n - Charge in frontend and backend development with IT company team.",
+            "links": [
+                {
+                    "text": "Live",
+                    "href": "https://lotusvancouver.com/"
+                }
+            ],
+            "tags" : [
+                "React.js",
+                "Node.js",
+                "MongoDB"
+            ]
+        },
+        {
+            "image" : "images/projects/mooningmonkey.png",
+            "title": "MooningMonkey -  NFT minting App",
+            "bodyText": "- MooningMonkey made using **ERC-721A** for **MooningMonkey** buyers.\n - Charge in Art generation.\n - Charge in Smart Contract development.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/Cheetah0723/NFT-MoonMonkey"
+                },
+                {
+                    "text": "Live",
+                    "href": "http://mooningmonkey.com"
+                }
+            ],
+            "tags" : [
+                "React.js",
+                "Node.js",
+                "Web3.js",
+                "Solidity"
+            ]
+        },
+        {
+            "image" : "images/projects/casino.png",
+            "title": "Crime Casino -  Betting App",
+            "bodyText": "- Crime Casino made using **Solana** for **Crime** NFT buyers. NFT holders get rewarded from this game.\n - Charge in frontend development and randoom function implement.\n - Charge in smart contract in development using Rust",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/Cheetah0723/Casino-NFT"
+                }
+            ],
+            "tags" : [
+                "React.js",
+                "Web3.js",
+                "Rust"
+            ]
+        },
+        {
+            "image" : "images/projects/quidverse.png",
+            "title": "Quidverse -  NFT minting App",
+            "bodyText": "- Quidverse made using **ERC-721** for **Quidverse** NFT buyers. NFT holders get rewarded from staking.\n - Charge in frontend and web3 integration.\n - Charge in smart contract development",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/Cheetah0723/NFT-quidverse"
+                },
+                {
+                    "text": "Live",
+                    "href": "http://quidverse.com"
+                }
+            ],
+            "tags" : [
+                "React.js",
+                "Web3.js",
+                "Solidity"
+            ]
+        },
+        {
+            "image" : "images/projects/seven.png",
+            "title": "Seven22 - NFT minting App",
+            "bodyText": "- Seven22 made using **ERC-721A** for **Seven22** NFT buyers. NFT holders get rewarded from staking.\n - Charge in frontend and web3 integration.\n",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/Cheetah0723/"
+                },
+                {
+                    "text": "Live",
+                    "href": "http://seven22.io"
+                }
+            ],
+            "tags" : [
+                "Python",
+                "Django",
+                "BootStrap",
+                "SendGrid",
+                "Heroku",
+                "Gunicorn",
+                "VIT"
+            ]
+        }
+    ]
+}

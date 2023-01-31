@@ -1,0 +1,24 @@
+{
+    "education":[
+        {
+            "title": "April 2008 - March 2012",
+            "cardTitle": "B.Tech, Computer Science",
+            "cardSubtitle":"James Cook University, Singapore",
+            "cardDetailedText": "CGPA - 3.5",
+            "icon" : {
+                "src": "images/education/JCU_Short_Mark.png"
+            }            
+        },
+        {
+            "title": "April 2010 - March 2012",
+            "cardTitle": "Full-Stack, Web development",
+            "cardSubtitle":"James Cook University, Singapore",
+            "cardDetailedText": "CGPA - 3.6"           
+        }
+    ],
+    "carousel" : [
+        "images/education/JCU1.jpg",
+        "images/education/JCU2.jpg",
+        "images/education/JCU3.jpg"
+    ]
+}
